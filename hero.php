@@ -21,6 +21,7 @@ $skill = $level <= 4 ? $namaHeroMl." Belum memiliki skill" : $namaHeroMl." Sudah
 echo $skill;
 
 
+
 // switch ($level) {
 //     case 2 :
 //         echo $namaHeroMl. " Hanya Memiliki Skill 1";
